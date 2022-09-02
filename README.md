@@ -25,8 +25,6 @@ HTML | ⭐⭐
 C# | ⭐
 SQL | ⭐⭐
 
-## Information
-
 ## Miscellaneous
 Sponsor Me ❤️: https://github.com/sponsors/Plactrix
 Discord Tag: Plactrix#0001
