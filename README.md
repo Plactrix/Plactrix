@@ -1,16 +1,35 @@
-### Hi there 👋
+# Plactrix
 
-<!--
-**Plactrix/Plactrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Visitor Count
+  <img src="https://profile-counter.glitch.me/Plactrix/count.svg" />
 
-Here are some ideas to get you started:
+## Socials
+[![GitHub Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png)](https://github.com/Plactrix)
+[![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png)](http://twitter.com/Plactrix)
+[![YouTube Logo](https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png)](https://www.youtube.com/channel/UCXP53r2T1NlHDc9qurUaj1w?view_as=subscriber)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- I write shit that does cool stuff when I feel like it
+- Crippling social anxiety
+- I stream sometimes
+
+### Languages
+⭐⭐⭐ Proficient | ⭐⭐ Intermediate | ⭐ Novice
+
+|Language|Proficiency|
+|---|---|
+Lua | ⭐⭐⭐
+JS | ⭐⭐
+Python | ⭐
+HTML | ⭐⭐
+C# | ⭐
+SQL | ⭐⭐
+
+## Information
+
+## Miscellaneous
+Sponsor Me ❤️: https://github.com/sponsors/Plactrix
+Discord Tag: Plactrix#0001
+
+## GitHub Contribution Statistics
+![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=Plactrix)
