@@ -20,10 +20,11 @@
 |---|---|
 Lua | ⭐⭐⭐
 JS | ⭐⭐
-Python | ⭐
-HTML | ⭐⭐
-C# | ⭐
 SQL | ⭐⭐
+HTML | ⭐⭐
+Next.JS | ⭐
+Python | ⭐
+C# | ⭐
 
 ## Miscellaneous
 Sponsor Me ❤️: https://github.com/sponsors/Plactrix
