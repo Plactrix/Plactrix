@@ -26,8 +26,5 @@ Next.JS | ⭐
 Python | ⭐
 C# | ⭐
 
-## Miscellaneous
-Sponsor Me ❤️: https://github.com/sponsors/Plactrix
-
 ## GitHub Contribution Statistics
 ![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=Plactrix)
