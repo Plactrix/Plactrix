@@ -26,5 +26,6 @@ Next.JS | ⭐
 Python | ⭐
 C# | ⭐
 
-## GitHub Contribution Statistics
-![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=Plactrix)
+## GitHub Statistics
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plactrix" alt="plactrix" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Plactrix&count_private=true&show_icons=true" alt="plactrix" /></p>
