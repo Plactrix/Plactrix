@@ -3,12 +3,6 @@
 ## Visitor Count
   <img src="https://profile-counter.glitch.me/Plactrix/count.svg" />
 
-## Discord
-<p align="left">
-<a href="https://discord.com/users/410584601996820483">
-  <img src="https://lanyard-profile-readme.vercel.app/api/410584601996820483" width="440" height="240"/>
-</p>
-
 ### About Me
 - I write shit that does cool stuff when I feel like it
 - I stream on Twitch sometimes
@@ -19,11 +13,11 @@
 |Language|Proficiency|
 |---|---|
 Lua | ⭐⭐⭐
-JS | ⭐⭐
-SQL | ⭐⭐
+JS/TS | ⭐⭐
+React.JS | ⭐⭐
 HTML | ⭐⭐
-Next.JS | ⭐
 Python | ⭐
+SQL | ⭐
 C# | ⭐
 
 ## GitHub Statistics
